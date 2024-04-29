@@ -10,3 +10,6 @@ Features:
 5. Game over detection with the ability to restart the game for continuous play.
 
 This Snake game project is implemented in Java using the Swing library for graphical user interface components. It provides an entertaining and nostalgic gaming experience for players of all ages. Enjoy the challenge of guiding the snake to victory while avoiding obstacles and achieving high scores!
+
+
+<img width="722" alt="Screenshot 2024-04-29 134551" src="https://github.com/chhavijs/Snake-Game/assets/103040629/8e02ebfe-5187-47b0-8fd1-5dab9115c199">
