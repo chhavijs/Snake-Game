@@ -11,6 +11,6 @@ Features:
 
 This Snake game project is implemented in Java using the Swing library for graphical user interface components. It provides an entertaining and nostalgic gaming experience for players of all ages. Enjoy the challenge of guiding the snake to victory while avoiding obstacles and achieving high scores!
 
-<img src="Screenshot 2024-04-29 134838](https://github.com/chhavijs/Snake-Game/assets/103040629/04a93274-96a0-41a0-83c5-5136c129cddd" width="40"  height="40"> 
-<img src="Screenshot 2024-04-29 135150](https://github.com/chhavijs/Snake-Game/assets/103040629/dcd6f82e-3746-48a8-aa41-8469f0165162" width="40"  height="40">
+<img src="https://github.com/chhavijs/Snake-Game/assets/103040629/04a93274-96a0-41a0-83c5-5136c129cddd" width="100"  height="100"> 
+<img src="https://github.com/chhavijs/Snake-Game/assets/103040629/dcd6f82e-3746-48a8-aa41-8469f0165162" width="100"  height="100">
 
